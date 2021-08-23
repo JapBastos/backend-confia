@@ -18,10 +18,10 @@ Este projeto foi desenvolvido como teste para [Rede Confiax](https://www.confiax
 - [MySQL](https://www.mysql.com/)
 - [VS Code][vc] with [ESLint][vceslint], [EditorConfig][vceditconfig] and [Prettier][vcprettier]
 
-## :information_source: How To Use
+## :information_source: Como Utilizar
 
 Para clonar e rodar essa aplicação, você precisará do [Git](https://git-scm.com), [Docker](https://www.docker.com/docker-community), [NestJS](https://nestjs.com/), [Node.js v12.18][nodejs] ou superior + [Yarn v1.22][yarn] ou superior instalado no seu computador.
-From your command line:
+Da sua linha de comando:
 
 ```bash
 # For create a Docker container with MySQL configured for this project
